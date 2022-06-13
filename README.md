@@ -34,8 +34,8 @@
 -   💬 Ask me about **React**, **JavaScript** and **Redux**
 
 -   📫 How to reach me **ahmedmaher2481998@gmail.com**
-
--   📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
+<!--
+-   📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing) -->
 
 -   ⚡ Fun fact **React is still the King**
     <br />
@@ -43,7 +43,7 @@
 ## 📞 Connect
 
 <p align="center">
-    <a href="https://twitter.com/ahmedmaher2481998" target="blank">
+    <a href="https://twitter.com/A_maher_938" target="blank">
         <img 
              src="https://img.shields.io/twitter/follow/ahmedmaher2481998?logo=twitter&style=for-the-badge" 
              alt="twitter"
@@ -59,27 +59,16 @@
             title="gmail"
         />
     </a>
-    <a href="https://www.linkedin.com/in/ahmedmaher2481998" target="blank">
+    <a href="www.linkedin.com/in/ahmedmaher2481998
+" target="blank">
         <img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="linkedin"
             title="linkedin"
         />
     </a>
-    <a href="https://www.facebook.com/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-            alt="facebook"
-            title="facebook"
-        />
-    </a>
-    <a href="https://www.instagram.com/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="instagram"
-            title="instagram"
-        />
-    </a>
+   
+   
 </p>
 
 <p align="center">
@@ -141,22 +130,9 @@
         title="typescript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     />
-    <img
-        alt="dart"
-        title="dart"
-        src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
-    />
-    <img
-        alt="c-sharp"
-        title="c-sharp"
-        src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-    />
-    <img
-        alt="c++"
-        title="c++"
-        src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-    />
-    <br />
+   
+
+
     <img
         alt="html"
         title="html"
@@ -207,26 +183,7 @@
         title="angular"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
     />
-    <img
-        alt="node.js"
-        title="node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-    />
-    <img
-        alt="express.js"
-        title="express.js"
-        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-    />
-    <img
-        alt="mongodb"
-        title="mongodb"
-        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-    />
-    <img
-        alt="mariadb"
-        title="mariadb"
-        src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
-    />
+
     <img
         alt="sql"
         title="sql"
@@ -237,20 +194,8 @@
         title="firebase"
         src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
     />
-    <img
-        alt="WordPress"
-        title="WordPress"
-        src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
-    />
-    <img
-        alt="Flutter"
-        src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=white"
-    />
-    <img
-        alt="React Native"
-        src="https://img.shields.io/badge/React%20Native-0078d7.svg?style=for-the-badge&logo=react&nativeColor=white"
-    />
-    <br />
+
+   <br>
     <img
          alt="npm"
          title="npm"
@@ -266,11 +211,7 @@
          title="github"
          src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
     />
-    <img
-         alt="gitlab"
-         title="gitlab"
-         src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
-    />
+ 
     <img
          alt="webpack"
          title="webpack"
@@ -286,15 +227,6 @@
          title="eslint"
          src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
     />
-    <img
-         alt="jasmine"
-         title="jasmine"
-         src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white"
-    />
-    <img
-         alt="jira"
-         title="jira"
-         src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
-    />
+   
 </p>
 <br />
