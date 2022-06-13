@@ -180,18 +180,11 @@
         title="angular"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
     />
-
     <img
         alt="sql"
         title="sql"
         src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
     />
-    <img
-        alt="firebase"
-        title="firebase"
-        src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-    />
-
    <br>
     <img
          alt="npm"
