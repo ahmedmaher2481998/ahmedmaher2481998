@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=cascadia+code&size=28&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi+%F0%9F%91%8B;I+am+Mostafa+Abdelhamid" 
+    <img src="http://readme-typing-svg.herokuapp.com?font=cascadia+code&size=28&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi+%F0%9F%91%8B;I+am+Ahmed+Maher,+Welcome+to+my+Github" 
      />
 </h1>
 
-<h2 align="center">A passionate Software Developer</h2>
+<h2 align="center">A passionate Frontend Developer</h2>
 
 <p align="center">
     <img 
@@ -14,53 +14,26 @@
 <p align="center">
     <img
         src="https://badges.pufler.dev/years/ahmedmaher2481998"
-        alt="ahmedmaher2481998"
+        alt="years"
     />
     <img
         src="https://badges.pufler.dev/repos/ahmedmaher2481998"
-        alt="ahmedmaher2481998"
+        alt="repos"
     />
     <img
         src="https://img.shields.io/github/followers/ahmedmaher2481998?color=brightgreen"
-        alt="ahmedmaher2481998"
+        alt="followers"
     />
 </p>
 
-<!-- <p align="center">
-    <img
-        src="https://badges.pufler.dev/commits/daily/ahmedmaher2481998?style=for-the-badge"
-        alt="daily"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/weekly/ahmedmaher2481998?style=for-the-badge"
-        alt="weekly"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/monthly/ahmedmaher2481998?style=for-the-badge"
-        alt="monthly"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/yearly/ahmedmaher2481998?style=for-the-badge"
-        alt="yearly"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/all/ahmedmaher2481998?style=for-the-badge"
-        alt="all"
-    />
-</p> -->
-<!-- <br /> -->
-
 ## 💁‍♂️ About
 
--   🔭 I’m currently working as **Frontend Developer** @ **Genovity**
+-   🔭 I’m currently working as **Learning** **React With MUI**
+<!-- -   👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="blank">mostafa-abdelhamid.com</a> -->
+-   👨‍💻 Cuirrenlty Buliding ComfyStore Project **An E-commerce For furnture **
+-   💬 Ask me about **React**, **JavaScript** and **Redux**
 
-<!-- - 🌱 I’m currently learning **Node.js** and **Next.js** -->
-
--   👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="blank">mostafa-abdelhamid.com</a>
-
--   💬 Ask me about **React**, **Angular** and **Flutter**
-
--   📫 How to reach me **info@mostafa-abdelhamid.com**
+-   📫 How to reach me **ahmedmaher2481998@gmail.com**
 
 -   📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
 
@@ -323,43 +296,5 @@
          title="jira"
          src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
     />
-</p>
-<br />
-
-## 🏆 Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmaher2481998&theme=dark_dimmed" />
-</p>
-<br />
-
-## 💹 Profile Stats
-
-<p align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmaher2481998&layout=compact&theme=dark&card_width=450"
-        alt="stats"
-    />
-</p>
-<br />
-<p align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/?username=ahmedmaher2481998&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&custom_title=%"
-        alt="stats"
-    />
-</p>
-<br />
-
-## 🔁 Streak Stats
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaher2481998&theme=dark" />
-</p>
-<br />
-
-## 📊 Activity Graph
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ahmedmaher2481998&bg_color=151515&color=fdfdfd&line=79fe96&point=fdfdfd&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 <br />
