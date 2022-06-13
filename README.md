@@ -30,14 +30,14 @@
 
 -   🔭 I’m currently working as **Learning** **React With MUI**
 <!-- -   👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="blank">mostafa-abdelhamid.com</a> -->
--   👨‍💻 Cuirrenlty Buliding ComfyStore Project **An E-commerce For furnture **
+-   👨‍💻 Cuirrenlty Buliding ComfyStore Project **An E-commerce For furnture**
 -   💬 Ask me about **React**, **JavaScript** and **Redux**
 
 -   📫 How to reach me **ahmedmaher2481998@gmail.com**
 <!--
 -   📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing) -->
 
--   ⚡ Fun fact **React is still the King**
+-   ⚡ Learning and Growing **Is my Way of life**
     <br />
 
 ## 📞 Connect
