@@ -130,9 +130,6 @@
         title="typescript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     />
-   
-
-
     <img
         alt="html"
         title="html"
@@ -210,8 +207,7 @@
          alt="github"
          title="github"
          src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
-    />
- 
+    /> 
     <img
          alt="webpack"
          title="webpack"
