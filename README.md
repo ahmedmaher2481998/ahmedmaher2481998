@@ -71,50 +71,6 @@
    
 </p>
 
-<p align="center">
-    <a href="https://codepen.io/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
-            alt="codepen"
-            title="codepen"
-        />
-    </a>
-    <a href="https://stackoverflow.com/users/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-            alt="stackoverflow"
-            title="stackoverflow"
-        />
-    </a>
-    <a href="https://dev.to/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="dev.to"
-            title="dev.to"
-        />
-    </a>
-    <a href="https://medium.com/@ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-            alt="medium"
-            title="medium"
-        />
-    </a>
-    <a href="https://www.hackerrank.com/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-            alt="hackerrank"
-            title="hackerrank"
-        />
-    </a>
-    <a href="https://www.leetcode.com/ahmedmaher2481998" target="blank">
-        <img
-            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
-            alt="leetcode"
-            title="leetcode"
-        />
-    </a>
-</p>
 <br />
 
 ## 💡 Languages and Tools
