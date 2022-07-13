@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed maher</h1>
 <h3 align="center">A passionate frontend [React/Next js] developer from Egypt</h3>
-
+<h4>🔭 I’m currently working on BattleShip game With React/Redux</h4>
+<h4>👯 I’m looking to collaborate on Js/React projects</h4>
+<h4>🌱 I’m currently learning Node/Express</h4>
+<h4>💬 Ask me about React/Redux/TypeScript/TailwindCss/Next js/Css</h4>
+<h4>📫 How to reach me ahmedmaher2481998@gmail.com</h4>
+<h4>⚡ Fun fact i dream in ts because js gives me nightmares </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmaher2481998&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaher2481998" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmaher2481998" alt="ahmedmaher2481998" /></a> </p>
