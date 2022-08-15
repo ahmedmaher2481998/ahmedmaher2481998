@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend [React/Next js] developer from Egypt</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedmaher2481998&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaher2481998" /> </p>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaher2481998&" alt="ahmedmaher2481998" /></p>
-<h4>🔭 I’m currently working on BattleShip game With React/Redux</h4>
-<h4>👯 I’m looking to collaborate on Js/React projects</h4>
-<h4>🌱 I’m currently learning Node/Express</h4>
+<h4>🔭 I’m currently working on Building Full Stack youtube Clone With next js</h4>
+<h4>👯 I’m looking to collaborate on ts/React projects</h4>
+<h4>🌱 I’m currently learning Node/Express/MonogDB</h4>
 <h4>💬 Ask me about React/Redux/TypeScript/TailwindCss/Next js/Css</h4>
 <h4>📫 How to reach me ahmedmaher2481998@gmail.com</h4>
 <h4>⚡ Fun fact i dream in ts because js gives me nightmares </h4>
@@ -14,7 +14,7 @@
 
 -   👨‍💻 All of my projects are available at [ahmedmaher-netlidy.com(_under devlopment_)](ahmedmaher-netlidy.com(_under devlopment_))
 
--   📄 Know about my experiences [(_under devlopment_)]((_under devlopment_))
+-   📄 Know about my experiences [my porfirio](https://www.ahmed-maher.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
