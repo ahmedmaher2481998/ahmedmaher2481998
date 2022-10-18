@@ -2,19 +2,18 @@
 <h3 align="center">A fullstack developer from Egypt focused on the frontend [React/Next js] with 6months of experince</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedmaher2481998&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaher2481998" /> </p>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaher2481998&" alt="ahmedmaher2481998" /></p>
-<h4>🔭 I’m currently working on mastering sql/sequlize with express applications</h4>
-<h4>👯 I’m looking to collaborate on nextjs/Reactjs projects</h4>
-<h4>🌱 I’m currently learning Relational DB with sequlize ORM</h4>
-<h4>💬 Ask me about Reactjs/Nextjs/Redux/TypeScript/TailwindCss/Css/animation with css/js</h4>
+<h4>🔭 I’m currently working on mastering sql/sequelize with express applications</h4>
+<h4>👯 I’m looking to collaborate on next.js/React.js projects</h4>
+<h4>🌱 I’m currently learning Relational DB with sequelize ORM</h4>
+<h4>💬 Ask me about React.js/Next.js/Redux/TypeScript/TailwindCss/Css/animation with css/js</h4>
 <h4>📫 How to reach me : via ahmedmaher2481998@gmail.com</h4>
-<h4>⚡ i have learned so much and there more to come that's why i wake up every day with the feeling of excitement</h4>
-
+<h4>⚡ i have learned so much and there's more to come, that's why i wake up every day with the feeling of excitement</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmaher2481998" alt="ahmedmaher2481998" /></a> </p>
 
--   👨‍💻 All of my projects are available at [ahmedmaher-netlidy.com(_under devlopment_)](ahmedmaher-netlidy.com(_under devlopment_))
+- 👨‍💻 All of my projects are available on my [Portfolio](https://www.ahmed-maher.live)
 
--   📄 Know about my experiences [my porfirio](https://www.ahmed-maher.live)
+- 📄 Know about my experiences : [my Resume](https://docs.google.com/document/d/1J6NQli5376gS-4xW3Bj1_nsJAPVe_1k7/edit?usp=sharing&ouid=105626555580654089249&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +27,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaher2481998&show_icons=true&locale=en&layout=compact" alt="ahmedmaher2481998" /></p>
 
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaher2481998&show_icons=true&locale=en" alt="ahmedmaher2481998" /></p>
-
-
