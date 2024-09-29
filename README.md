@@ -5,15 +5,15 @@
 <h4>🔭 I’m currently working Chrome extension That automate things for you</h4>
 <h4>👯 I’m actively applying for Fullstack/Frontend roles</h4>
 <h4>🌱 I’m currently Diving Deeper Into Gsap</h4>
-<h4>💬 Would love talking to you if you are a JS/Node dev [reach out](https://x.com/A_maher_938)</h4>
-<h4>📫 to reach me send me a msg on twitter or email @ [gmail](emailto:ahmedmaher2481998@gmail.com)</h4>
+<h4>💬 Would love talking to you if you are a JS/Node dev <a href='https://x.com/A_maher_938'> reach out </a> </h4>
+<h4>📫 to reach me send me a msg on twitter or email @ <a href='emailto:ahmedmaher2481998@gmail.com'>gmail</a></h4>
 <h4>⚡ I Use Js/Next/Vue/Node/Nest/PGSQL </h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmaher2481998" alt="ahmedmaher2481998" /></a> </p>
 
 - 👨‍💻 All of my projects are available on my <a href='https://a-maher938.vercel.app'>Portfolio</a>
 
-- 📄 Know about my experiences : [my Resume](https://docs.google.com/document/d/1J6NQli5376gS-4xW3Bj1_nsJAPVe_1k7/edit?usp=sharing&ouid=105626555580654089249&rtpof=true&sd=true](https://docs.google.com/document/d/1egqfGgsU880jwa1loqjcrrGksJxsQ5HU1cXITDSwlHI/edit?usp=sharing)
+- 📄 Know about my experiences : <a href='https://docs.google.com/document/d/1J6NQli5376gS-4xW3Bj1_nsJAPVe_1k7/edit?usp=sharing&ouid=105626555580654089249&rtpof=true&sd=true](https://docs.google.com/document/d/1egqfGgsU880jwa1loqjcrrGksJxsQ5HU1cXITDSwlHI/edit?usp=sharing'>my Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
