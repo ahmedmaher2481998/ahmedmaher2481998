@@ -6,7 +6,7 @@
 <h4>👯 I’m actively applying for Fullstack/Frontend roles</h4>
 <h4>🌱 I’m currently Diving Deeper Into Gsap</h4>
 <h4>💬 Would love talking to you if you are a JS/Node dev <a href='https://x.com/A_maher_938'> reach out </a> </h4>
-<h4>📫 to reach me send me a msg on twitter or email @ <a href='emailto:ahmedmaher2481998@gmail.com'>gmail</a></h4>
+<h4>📫 to reach me send me a msg on twitter or email @ <a href='mailto:ahmedmaher2481998@gmail.com'>gmail</a></h4>
 <h4>⚡ I Use Js/Next/Vue/Node/Nest/PGSQL </h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmaher2481998" alt="ahmedmaher2481998" /></a> </p>
